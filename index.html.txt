@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shadrack | Web Developer & Designer</title>
+  <meta name="description" content="Portfolio of Shadrack, a passionate web developer and designer. Explore my latest projects and services.">
+  <meta name="keywords" content="Shadrack, Web Developer, Portfolio, Frontend Developer, Web Designer, Projects">
+  <meta name="author" content="Shadrack">
+
+  <!-- Open Graph / Social preview -->
+  <meta property="og:title" content="Shadrack | Web Developer & Designer">
+  <meta property="og:description" content="Check out my portfolio of clean, modern, and responsive web projects.">
+  <meta property="og:image" content="images/preview.jpg">
+  <meta property="og:url" content="https://your-username.github.io/portfolio-site/">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Shadrack | Web Developer & Designer">
+  <meta name="twitter:description" content="Explore my projects and get in touch for collaborations.">
+  <meta name="twitter:image" content="images/preview.jpg">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <h1>Shadrack</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="hero">
+    <h2>Hi, I'm Shadrack</h2>
+    <p>A passionate Web Developer & Designer crafting clean, modern web experiences.</p>
+    <a href="#projects" class="btn">See My Work</a>
+  </section>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m a web developer with a love for clean code, creative interfaces, and problem-solving. I enjoy turning complex ideas into simple, beautiful, and intuitive designs.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project-list">
+      <div class="project-card">
+        <h3>Simple Calculator</h3>
+        <p>A fully functional calculator built with HTML, CSS, and JavaScript.</p>
+        <a href="#" target="_blank">View Project</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Shadrack. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
